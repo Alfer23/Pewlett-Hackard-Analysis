@@ -28,4 +28,4 @@ This summary explains the analysis to help Bobby's manager for the “silver tsu
 - 90398 employees
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
--No, there the company will have a deficit of 88849 employees for mentor the next generation
+- No, there the company will have a deficit of 88849 employees for mentor the next generation
